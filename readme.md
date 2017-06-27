@@ -1,6 +1,6 @@
 # 손글씨 메모 (HandMemo)
 
-## 앱의 주요 기능
+## 앱의 주요 기능 (Key feature of HandMemo application)
 
  - 사용자가 화면을 터치하면, 그에 따른 궤적을 선으로 나타냄.
    (App recognize user's input on screen and make a line.)
